@@ -1,14 +1,8 @@
 body
 {
-<<<<<<< HEAD
-    color: rgb(40, 41, 43);
-    text-align: left;
-    font-family: Arial;
-=======
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: Arial;
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
